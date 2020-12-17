@@ -49,5 +49,9 @@
         <members>Topic_Exams</members>
         <name>GlobalValueSet</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>SharingRules</members>
+    </types>
     <version>50.0</version>
 </Package>
