@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Organization Setup (GUI) - Admin</fullName>
+        <default>false</default>
+        <label>Organization Setup (GUI) - Admin</label>
+    </customValue>
+    <customValue>
+        <fullName>Security and Access - Admin</fullName>
+        <default>false</default>
+        <label>Security and Access - Admin</label>
+    </customValue>
+    <customValue>
+        <fullName>Standard and Custom Objects - Admin</fullName>
+        <default>false</default>
+        <label>Standard and Custom Objects - Admin</label>
+    </customValue>
+    <customValue>
+        <fullName>Sales and Marketing - Admin</fullName>
+        <default>false</default>
+        <label>Sales and Marketing - Admin</label>
+    </customValue>
+    <customValue>
+        <fullName>Data Management - Admin</fullName>
+        <default>false</default>
+        <label>Data Management - Admin</label>
+    </customValue>
+    <customValue>
+        <fullName>Workflow/Process Automation - Admin</fullName>
+        <default>false</default>
+        <label>Workflow/Process Automation - Admin</label>
+    </customValue>
+    <customValue>
+        <fullName>AppExchange - Admin</fullName>
+        <default>false</default>
+        <label>AppExchange - Admin</label>
+    </customValue>
+    <masterLabel>Topic Exams</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

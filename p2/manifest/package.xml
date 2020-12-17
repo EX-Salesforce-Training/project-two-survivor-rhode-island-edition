@@ -45,5 +45,9 @@
         <members>Results__c</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>Topic_Exams</members>
+        <name>GlobalValueSet</name>
+    </types>
     <version>50.0</version>
 </Package>
