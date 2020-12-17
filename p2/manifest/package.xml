@@ -32,5 +32,18 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
+    <types>
+        <members>Contact</members>
+        <members>Assigments__c</members>
+        <members>Category__c</members>
+        <members>Certifications__c</members>
+        <members>Contact_Certification__c</members>
+        <members>Exams__c</members>
+        <members>Interview__c</members>
+        <members>Portfolio__c</members>
+        <members>Question__c</members>
+        <members>Results__c</members>
+        <name>CustomObject</name>
+    </types>
     <version>50.0</version>
 </Package>
