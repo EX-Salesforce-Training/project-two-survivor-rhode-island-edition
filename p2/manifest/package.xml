@@ -35,6 +35,7 @@
     <types>
         <members>Contact</members>
         <members>Assigments__c</members>
+        <members>Assessment__c</members>
         <members>Category__c</members>
         <members>Certifications__c</members>
         <members>Contact_Certification__c</members>
@@ -44,6 +45,10 @@
         <members>Question__c</members>
         <members>Results__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Assessment__c</members>
+        <name>CustomTab</name>
     </types>
     <types>
         <members>Topic_Exams</members>
