@@ -1,0 +1,22 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes"> 
+    <aura:attribute name="recordError" type="string" access="private" />
+
+    <force:recordData aura:id="recordHandler"
+        recordId="{!v.recordId}"
+        fields="Id"
+        targetError="{!v.recordError}"
+        recordUpdated="{!c.handleRecordUpdated}" />
+
+        <div class="Delete Record">
+            <lightning:card iconName="action:Delete" title="Delete Record">
+                <div class="slds-p-horizontal--small">
+                    <lightning:button label="Delete Record" variant="destructive" onclick="{!handleDeleteRecord}" />
+                </div>
+            </lightning:card>
+        </div>
+        <aura:if isTrue="{!not(empty(v.recordError))}">
+            <div class="recordError">
+                {!v.recordError}
+            </div>
+        </aura:if>
+</aura:component>
