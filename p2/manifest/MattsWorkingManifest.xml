@@ -1,6 +1,6 @@
  <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <!--<types>
+    <types>
         <members>Question__c</members>
         <members>Correct_Answer__c</members>
         <members>Result__c</members>
@@ -20,7 +20,7 @@
         <members>Result__c</members>
         <members>Student_Answer__c</members>
         <name>CustomTab</name>
-    </types> -->
+    </types> 
     <types>
         <members>*</members>
         <name>SharingRules</members>
