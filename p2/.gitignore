@@ -11,6 +11,8 @@ scripts
 .prettierrc
 sfdx-project.json
 package.json
+manifest\MattsWorkingManifest.xml
+force-app\main\default\aura\MattHarnessApp
 # LWC VSCode autocomplete
 **/lwc/jsconfig.json
 
