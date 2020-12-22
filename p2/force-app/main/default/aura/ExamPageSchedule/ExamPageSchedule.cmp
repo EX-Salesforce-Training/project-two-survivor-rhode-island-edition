@@ -1,0 +1,24 @@
+<aura:component implements="forceCommunity:availableForAllPageTypes">
+	<!--EXAM SCHEDULING-->
+	<div class="slds-grid slds-wrap">
+<div class="slds-col slds-size_1-of-1 slds-medium-size_6-of-12 slds-large-size_8-of-12">
+    <span class="slds-text-heading_large">SCHEDULE YOUR CERTIFICATION EXAM</span>
+ <lightning:carousel disableAutoRefresh="false" disableAutoScroll="false">
+        <lightning:carouselImage
+            src = "https://ebsta.com/wp-content/uploads/2020/09/SF-Admin-Logo.png"
+            header = "Salesforce Administrator"
+            description = "Click to schedule your Administrator test today!"
+            alternativeText = "Salesforce certified picture"
+            href = "https://www.webassessor.com/salesforce">
+        </lightning:carouselImage>
+        <lightning:carouselImage
+            src = "https://jenwlee.files.wordpress.com/2020/02/sfu_crt_bdg_pltfrm_dev_i_rgb.jpg"
+            header = "Salesforce Developer"
+            description = "Click to schedule your Developer test today!"
+            alternativeText = "Salesforce certified picture"
+            href = "https://www.webassessor.com/salesforce">
+        </lightning:carouselImage>
+    </lightning:carousel>
+</div>
+    </div>
+</aura:component>
