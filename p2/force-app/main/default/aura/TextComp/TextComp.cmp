@@ -1,0 +1,8 @@
+<aura:component>
+    <aura:attribute name="field" type="string" />
+    <aura:attribute name="fieldname" type="string" />
+    <lightning:recordEditForm objectApiName="Portfolio__c">
+        <lightning:outputField fieldName="v.fieldname" />
+        <lightning:inputField fieldName="v.field" />
+    </lightning:recordEditForm>
+</aura:component>	
