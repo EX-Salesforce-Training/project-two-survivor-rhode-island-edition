@@ -1,0 +1,5 @@
+<!-- To enable your Lightning components to access branding tokens, 
+which control things such as the logo and font family, define a tokens bundle in the same namespace. -->
+
+<aura:tokens extends="forceCommunity:base">
+</aura:tokens>
