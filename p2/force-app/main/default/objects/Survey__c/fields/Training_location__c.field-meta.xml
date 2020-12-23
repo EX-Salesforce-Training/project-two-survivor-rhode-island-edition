@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Training_location__c</fullName>
+    <externalId>false</externalId>
+    <label>Training location</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>UTA</fullName>
+                <default>false</default>
+                <label>UTA</label>
+            </value>
+            <value>
+                <fullName>WVU</fullName>
+                <default>false</default>
+                <label>WVU</label>
+            </value>
+            <value>
+                <fullName>USF</fullName>
+                <default>false</default>
+                <label>USF</label>
+            </value>
+            <value>
+                <fullName>Reston</fullName>
+                <default>false</default>
+                <label>Reston</label>
+            </value>
+            <value>
+                <fullName>NY</fullName>
+                <default>false</default>
+                <label>NY</label>
+            </value>
+            <value>
+                <fullName>Canada</fullName>
+                <default>false</default>
+                <label>Canada</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
