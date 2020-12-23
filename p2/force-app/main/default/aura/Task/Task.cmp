@@ -1,0 +1,16 @@
+<aura:component controller="TasKController" implements="force:appHostable,flexipage:availableForAllPageTypes,force:hasRecordId" >
+
+<aura:attribute name="recordId" type="Id" />
+<aura:attribute name="newTask" type="Task" default="{'sobjectType':'Task'}"/>
+<aura:attribute name="tasks" type="Task[]"/>
+<aura:handler name="init" action="{!c.doInit}" value="{!this}"/>
+
+<ui:inputText aura:id="taskSubject" label="Task Subject" value="{!v.newTask.Subject}"/>     <!--this is the subject of the task --> 
+<ui:inputDateTime aura:id="taskDate" label="Activity Date" value="{!v.newTask.ActivityDate}" displayDatePicker="true"/> <!-- day when is the activity assign -->
+<ui:button label="Add Task" press="{!c.createNewTask}"/>
+
+<aura:iteration items="{!v.tasks}" var="item">
+    {!item.Subject}, {!item.ActivityDate}<br/>
+</aura:iteration>
+
+</aura:component>
