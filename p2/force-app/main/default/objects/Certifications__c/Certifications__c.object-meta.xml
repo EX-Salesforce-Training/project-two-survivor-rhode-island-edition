@@ -155,9 +155,10 @@
     <externalSharingModel>ControlledByParent</externalSharingModel>
     <label>Certification</label>
     <nameField>
+        <displayFormat>CRT-{0000}</displayFormat>
         <label>Certifications Name</label>
         <trackHistory>false</trackHistory>
-        <type>Text</type>
+        <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Certifications</pluralLabel>
     <searchLayouts/>

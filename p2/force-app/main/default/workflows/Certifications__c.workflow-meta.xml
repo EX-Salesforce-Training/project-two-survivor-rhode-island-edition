@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldUpdates>
+        <fullName>Administrator_Description</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Administrator credential is designed for those who have experience with Salesforce and continuously look for ways to assist their companies in getting even more from additional features and capabilities.&apos;</formula>
+        <name>Administrator Description</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Advanced_Administrator_Description</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Advanced Administrator credential is designed for seasoned Salesforce Administrators who have mastered the ability to utilize advanced Salesforce features and functionality to solve a variety of business problems.&apos;</formula>
+        <name>Advanced Administrator Description</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Application_Architect_Description</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Application Architect has a deep understanding of native Salesforce features and functionality, as well as the ability to model a role hierarchy, data model, and appropriate sharing mechanisms.&apos;</formula>
+        <name>Application Architect Description</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>B2C_Commerce_Architect_Description</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce B2C Commerce Architect has experience designing global sites that support multiple brands and channels using standard design patterns.&apos;</formula>
+        <name>B2C Commerce Architect Description</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>B2C_Commerce_Developer_Description</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce B2C Commerce Developer credential is designed for those who have experience as full-stack developers for Salesforce Commerce Cloud Digital.&apos;</formula>
+        <name>B2C Commerce Developer Description</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>B2C_Solution_Architect_Description</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce B2C Solution Architect designs multi-cloud solutions on the Salesforce Platform that power personalized, frictionless customer experiences.&apos;</formula>
+        <name>B2C Solution Architect Description</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>CPQ_Specialist_Description</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce CPQ Specialist credential is designed for individuals who have experience implementing Salesforce CPQ. This credential is a great way to demonstrate skills and knowledge in designing, building, and implementing quoting flows with Salesforce CPQ.&apos;</formula>
+        <name>CPQ Specialist Description</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Community_Cloud_Consultant</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Community Cloud Consultant credential is designed for those who have experience implementing and consulting on Community Cloud in a customer-facing role. Candidates also should be able to troubleshoot and solve platform issues.&apos;</formula>
+        <name>Community Cloud Consultant</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Data_Architecture_and_Management_Designr</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Data Architecture and Management Designer credential is designed for those who assess the architecture environment and requirements and design sound, scalable, and high-performing solutions on the Salesforce Platform as it pertains to enterprise data management.&apos;</formula>
+        <name>Data Architecture and Management Designr</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Development_Lifecycle_and_Deployment_Des</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Development Lifecycle and Deployment Designer credential is designed for those who assess their architecture environment and requirements and then implement management solutions on the Salesforce Platform that meet those requirements.&apos;</formula>
+        <name>Development Lifecycle and Deployment Des</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Education_Cloud_Consultant_Description</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Education Cloud Consultant credential is designed for consultants who have experience implementing Salesforce Education Cloud solutions in a customer-facing role.&apos;</formula>
+        <name>Education Cloud Consultant Description</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Einstein_Analytics_and_Discovery_Consult</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Einstein Analytics and Discovery Consultant credential is designed for consultants who have experience designing and implementing on the Salesforce Einstein Analytics and Discovery platform in a customer-facing role that meet business requirements.&apos;</formula>
+        <name>Einstein Analytics and Discovery Consult</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Field_Service_Lightning_Consultant</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Field Service Lightning Consultant credential is designed for individuals who have proven experience with the administration and configuration of Salesforce and are capable of consulting with customers on field service operations.&apos;</formula>
+        <name>Field Service Lightning Consultant</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Heroku_Architecture_Designer_Description</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Heroku Architecture Designer credential is designed for those who have the knowledge, skills, and extensive experience with architecting scalable solutions, deploying and managing apps, and managing teams and build-workflows on Heroku.&apos;</formula>
+        <name>Heroku Architecture Designer Description</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Identity_and_Access_Management_Designer</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Identity and Access Management Designer credential is designed for those who assess the architecture environment and requirements and design sound, scalable, and high-performing solutions on the Salesforce Platform that meet the Single Sign-on (SSO) requirements.&apos;</formula>
+        <name>Identity and Access Management Designer</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>JavaScript_Developer_I</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;Certified JavaScript Developer I developers have experience developing front-end and/or back-end JavaScript applications for the web stack, and work with JavaScript related technologies like Lightning Web Components.&apos;</formula>
+        <name>JavaScript Developer I</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Marketing_Cloud_Administrator</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Marketing Cloud Administrator credential is designed for administrators who can configure Marketing Cloud products utilizing industry and product best practices. Candidates should be generally familiar with data structure in subscriber data management and can thoroughly navigate Setup. Certified Marketing Cloud Administrators can successfully troubleshoot account configuration and user requests.&apos;</formula>
+        <name>Marketing Cloud Administrator</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Marketing_Cloud_Consultant</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Marketing Cloud Consultant credential is designed for those who can set up and implement the Salesforce Marketing Cloud email application tools, providing solutions to execute both tactical and strategic email campaigns. Candidates should possess broad knowledge of Salesforce applications, regularly configure and manage Salesforce, and work with stakeholders to define requirements.&apos;</formula>
+        <name>Marketing Cloud Consultant</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Marketing_Cloud_Developer_Description</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;Certified Marketing Cloud Developers have hands-on experience developing across the full platform. They create personalized, dynamic messages and landing pages, and are fluent in Marketing Cloud scripting languages. They’re also experienced in advanced segmentation, reporting and analytics, and data configuration.&apos;</formula>
+        <name>Marketing Cloud Developer Description</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Marketing_Cloud_Email_Specialist_Descrip</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Marketing Cloud Email Specialist credential is designed for those who can demonstrate knowledge, skills, and experience in email marketing best practices. Includes message design, subscriber and data management, inbox delivery, and external integrations with the Marketing Cloud email application.&apos;</formula>
+        <name>Marketing Cloud Email Specialist Descrip</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Marketing_Cloud_Social_Specialist</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Marketing Cloud Social Specialist credential is designed for those who can demonstrate knowledge, skills, and experience using the components of Social Studio in the social landscape for post creation, management and analysis of conversations, and reporting.&apos;</formula>
+        <name>Marketing Cloud Social Specialist</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Nonprofit_Cloud_Consultant</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Nonprofit Cloud Consultant credential is designed for consultants who have experience designing and implementing Salesforce Nonprofit Cloud solutions in a customer-facing role that meet business requirements.&apos;</formula>
+        <name>Nonprofit Cloud Consultant</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Pardot_Consultant</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Pardot Consultant credential is designed for those who have experience implementing Pardot solutions in a customer-facing role.Candidates should be able to design and implement Pardot solutions that meet customers’ business requirements and contribute to their long-term success.&apos;</formula>
+        <name>Pardot Consultant</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Pardot_Specialist</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Pardot Specialist credential is designed for those who can demonstrate skills and knowledge in designing, building, and implementing marketing workflows through the Pardot platform.&apos;</formula>
+        <name>Pardot Specialist</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Platform_App_Builder_Description</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Platform App Builder credential is designed for those who can demonstrate skills and knowledge in designing, building, and implementing custom applications using the declarative customization capabilities of the Salesforce Platform.&apos;</formula>
+        <name>Platform App Builder Description</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Platform_Developer_II_Description</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Platform Developer II (PDII) credential is designed for those who have the skills and experience in advanced programmatic capabilities of the Salesforce Platform and data modeling to develop complex business logic and interfaces.&apos;</formula>
+        <name>Platform Developer II Description</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Platform_Developer_I_Description</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;Certified Platform Developer I developers understand how to develop and deploy custom business logic and custom interfaces using the programmatic capabilities of the Lightning Platform. They know when to use declarative versus programmatic methods, and can extend the Lightning Platform using Apex and Visualforce.&apos;</formula>
+        <name>Platform Developer I Description</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Sales_Cloud_Consultant</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Sales Cloud Consultant credential is designed for those who have experience implementing Sales Cloud solutions in a customer-facing role. Candidates should be able to successfully design and implement Sales Cloud solutions that are maintainable and scalable, and contribute to long-term customer success.&apos;</formula>
+        <name>Sales Cloud Consultant</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Service_Cloud_Consultant</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Service Cloud Consultant credential is designed for those who have experience implementing Service Cloud solutions in a customer-facing role. Candidates should be able to successfully design and implement Service Cloud solutions that meet customer business requirements, are maintainable and scalable, and contribute to long-term customer success.&apos;</formula>
+        <name>Service Cloud Consultant</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Sharing_and_Visibility_Designer_Descript</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Sharing and Visibility Designer credential is designed for those who assess the architecture environment and requirements and design sound, scalable, and high-performing technical solutions on the Salesforce Platform that meet sharing and visibility security requirements.&apos;</formula>
+        <name>Sharing and Visibility Designer Descript</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>System_Architect_Description</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;System Architects focus on off-platform systems, integration, securing access between systems as well as managing governance and testing capabilities for deployment and ongoing Salesforce modification requirements.&apos;</formula>
+        <name>System Architect Description</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Technical_Architect_Description</fullName>
+        <field>Certification_Description__c</field>
+        <formula>&apos;The Salesforce Technical Architect possesses broad knowledge across multiple development platforms and draws on their skills and experience to assess customer requirements and architecture in order to design secure, high-performance technical solutions that maximize the potential of the Salesforce platform.&apos;</formula>
+        <name>Technical Architect Description</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <rules>
+        <fullName>Autofill Cert Description</fullName>
+        <actions>
+            <name>Administrator_Description</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>Advanced_Administrator_Description</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>B2C_Solution_Architect_Description</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>CPQ_Specialist_Description</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>Education_Cloud_Consultant_Description</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>Heroku_Architecture_Designer_Description</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>Platform_App_Builder_Description</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>Platform_Developer_II_Description</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>Platform_Developer_I_Description</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>Technical_Architect_Description</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <active>false</active>
+        <criteriaItems>
+            <field>Certifications__c.Certification_Type__c</field>
+            <operation>equals</operation>
+            <value>Administrator</value>
+        </criteriaItems>
+        <description>Descriptions for Certifications</description>
+        <triggerType>onCreateOrTriggeringUpdate</triggerType>
+    </rules>
+</Workflow>
