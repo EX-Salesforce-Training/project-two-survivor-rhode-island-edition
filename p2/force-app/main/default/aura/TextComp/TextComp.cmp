@@ -1,4 +1,4 @@
-<aura:component>
+<aura:component implements="forceCommunity:availableForAllPageTypes">
     <aura:attribute name="field" type="string" />
     <aura:attribute name="fieldname" type="string" />
     <lightning:card>
