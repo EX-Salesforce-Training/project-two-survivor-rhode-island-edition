@@ -1,0 +1,66 @@
+<aura:component >
+<!--RESULTS-->
+    <span class="slds-text-heading_large">RESULTS</span>
+ <table class="slds-table slds-table_cell-buffer slds-table_bordered">
+<thead>
+<tr class="slds-line-height_reset">
+<th class="" scope="col">
+    <div class="slds-truncate" title="Exams">Exams</div>
+</th>
+<th class="" scope="col">
+    <div class="slds-truncate" title="Score">Score</div>
+</th>
+<th class="" scope="col">
+<div class="slds-truncate" title="Best Category">Best Category</div>
+</th>
+<th class="" scope="col">
+<div class="slds-truncate" title="Worst Category">Worst Category</div>
+</th>
+    </tr>
+     </thead>
+<tbody>
+<tr class="slds-hint-parent">
+<th data-label="Opportunity Name" scope="row">
+<div class="slds-truncate" title="Salesforce Administrator">
+<a href="javascript:void(0);" tabindex="-1">Salesforce Administrator</a>
+</div>
+</th>
+<td data-label="">
+<div class="slds-truncate" title="Score">85.7%</div>
+</td>
+<td data-label="">
+<div class="slds-truncate" title="Best Category">Automation</div>
+</td>
+<td data-label="">
+<div class="slds-truncate" title="Worst Category">App Exchange</div>
+</td>
+<td data-label="">
+<div class="slds-truncate" title="">
+<a href="javascript:void(0);" tabindex="-1"></a>
+</div>
+</td>
+</tr>
+<tr class="slds-hint-parent">
+<th data-label="Opportunity Name" scope="row">
+<div class="slds-truncate" title="">
+<a href="javascript:void(0);" tabindex="-1">Salesforce Developer</a>
+</div>
+</th>
+<td data-label="">
+<div class="slds-truncate" title="Score">75.2%</div>
+</td>
+<td data-label="">
+<div class="slds-truncate" title="Best Category">Visualforce</div>
+</td>
+<td data-label="">
+<div class="slds-truncate" title="Worst Category">Apex programming</div>
+</td>
+<td data-label="Contact">
+<div class="slds-truncate" title="">
+    <a href="javascript:void(0);" tabindex="-1"></a>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</aura:component>
