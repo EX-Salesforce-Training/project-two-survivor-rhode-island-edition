@@ -6,7 +6,6 @@
         fields="Id"
         targetError="{!v.recordError}"
         recordUpdated="{!c.handleRecordUpdated}" />
-
         <div class="Delete Record">
             <lightning:card iconName="action:Delete" title="Delete Record">
                 <div class="slds-p-horizontal--small">

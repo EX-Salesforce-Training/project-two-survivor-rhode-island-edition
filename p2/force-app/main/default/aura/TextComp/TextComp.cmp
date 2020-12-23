@@ -1,0 +1,15 @@
+<aura:component implements="forceCommunity:availableForAllPageTypes">
+    <aura:attribute name="field" type="string" />
+    <aura:attribute name="fieldname" type="string" />
+    <lightning:card>
+    <lightning:recordEditForm objectApiName="Portfolio__c">
+        <lightning:inputField fieldName="Name" />
+        <lightning:inputField fieldName="About_Me__c" />
+        <lightning:inputField fieldName="Skills__c" />
+        <lightning:inputField fieldName="Projects__c" />
+        <lightning:inputField fieldName="Work_Experience__c" />
+        <lightning:inputField fieldName="Honor_and_Awards__c" />
+        <lightning:button type="submit" label="Create New" onclick="{!c.handleClick}"/>
+    </lightning:recordEditForm>
+    </lightning:card>
+</aura:component>
