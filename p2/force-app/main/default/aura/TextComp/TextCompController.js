@@ -1,5 +1,5 @@
 ({
-    myAction : function(component, event, helper) {
-
+    handleClick : function(cmp, evt, help) {
+		
     }
 })
