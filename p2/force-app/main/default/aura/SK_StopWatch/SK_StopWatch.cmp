@@ -1,4 +1,4 @@
-<aura:component >
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes">
     <aura:handler name="init" value="{! this }" action="{!c.doInit}"/>
     <aura:attribute name="ltngCurrTime" type="String" default="00:00:00"/>
     <aura:attribute name="ltngIsDisplayed" type="boolean" default="false"/> 
@@ -6,15 +6,15 @@
     <div class="slds-card slds-align_absolute-center" style="width:250px;padding:8px;" >
         <div class="slds-grid slds-wrap" >
             <div class="slds-col slds-size_1-of-1 slds-align_absolute-center" >
-                <b>Stopwatch</b>
+                <b>TimeSheet Clock</b>
             </div>
             <div class="slds-col slds-size_1-of-1 slds-align_absolute-center" >
                 {!v.ltngCurrTime}
             </div>
             <div class="slds-col slds-size_1-of-1 slds-align_absolute-center">
-                <lightning:button variant="brand" label="Start" onclick="{! c.handleStartClick }" disabled="{!v.ltngIsDisplayed}"/>
-                <lightning:button variant="brand" label="Stop" onclick="{! c.handleStopClick }" disabled="{! !v.ltngIsDisplayed}"/>
-                <lightning:button variant="brand" label="Reset" onclick="{! c.handleResetClick }" />
+                <lightning:button variant="brand" label="Clock In" onclick="{! c.handleStartClick }" disabled="{!v.ltngIsDisplayed}"/>
+                <lightning:button variant="brand" label="Clock Out" onclick="{! c.handleStopClick }" disabled="{! !v.ltngIsDisplayed}"/>
+                
             </div>
         </div>
     </div>    
