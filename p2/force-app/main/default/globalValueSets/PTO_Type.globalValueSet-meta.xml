@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Paid</fullName>
+        <default>false</default>
+        <label>Paid</label>
+    </customValue>
+    <customValue>
+        <fullName>Unpaid</fullName>
+        <default>false</default>
+        <label>Unpaid</label>
+    </customValue>
+    <customValue>
+        <fullName>Bonus Day</fullName>
+        <default>false</default>
+        <label>Bonus Day</label>
+    </customValue>
+    <customValue>
+        <fullName>Holiday Pay</fullName>
+        <default>false</default>
+        <label>Holiday Pay</label>
+    </customValue>
+    <masterLabel>PTO Type</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

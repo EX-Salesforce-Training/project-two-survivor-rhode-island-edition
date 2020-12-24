@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Administrator</fullName>
+        <default>false</default>
+        <label>Administrator</label>
+    </customValue>
+    <customValue>
+        <fullName>Advanced Administrator</fullName>
+        <default>false</default>
+        <label>Advanced Administrator</label>
+    </customValue>
+    <customValue>
+        <fullName>Advanced Apex Specialist</fullName>
+        <default>false</default>
+        <label>Advanced Apex Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>Apex Specialist</fullName>
+        <default>false</default>
+        <label>Apex Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>App Customization Specialist</fullName>
+        <default>false</default>
+        <label>App Customization Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>Application Architect</fullName>
+        <default>false</default>
+        <label>Application Architect</label>
+    </customValue>
+    <customValue>
+        <fullName>Aura Components Specialist</fullName>
+        <default>false</default>
+        <label>Aura Components Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>B2C Commerce Architect</fullName>
+        <default>false</default>
+        <label>B2C Commerce Architect</label>
+    </customValue>
+    <customValue>
+        <fullName>B2C Commerce Developer</fullName>
+        <default>false</default>
+        <label>B2C Commerce Developer</label>
+    </customValue>
+    <customValue>
+        <fullName>B2C Solution Architect</fullName>
+        <default>false</default>
+        <label>B2C Solution Architect</label>
+    </customValue>
+    <customValue>
+        <fullName>Billing Specialist</fullName>
+        <default>false</default>
+        <label>Billing Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>Business Administration Specialist</fullName>
+        <default>false</default>
+        <label>Business Administration Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>Community Cloud Consultant</fullName>
+        <default>false</default>
+        <label>Community Cloud Consultant</label>
+    </customValue>
+    <customValue>
+        <fullName>CPQ Specialist</fullName>
+        <default>false</default>
+        <label>CPQ Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>Data Architecture and Management Designer</fullName>
+        <default>false</default>
+        <label>Data Architecture and Management Designer</label>
+    </customValue>
+    <customValue>
+        <fullName>Data Integration Specialist</fullName>
+        <default>false</default>
+        <label>Data Integration Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>Development Lifecycle and Deployment Designer</fullName>
+        <default>false</default>
+        <label>Development Lifecycle and Deployment Designer</label>
+    </customValue>
+    <customValue>
+        <fullName>Education Cloud Consultant</fullName>
+        <default>false</default>
+        <label>Education Cloud Consultant</label>
+    </customValue>
+    <customValue>
+        <fullName>Einstein Analytics and Discovery Consultant</fullName>
+        <default>false</default>
+        <label>Einstein Analytics and Discovery Consultant</label>
+    </customValue>
+    <customValue>
+        <fullName>Einstein Analytics and Discovery Insights Specialist</fullName>
+        <default>false</default>
+        <label>Einstein Analytics and Discovery Insights Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>Einstein Analytics Data Preparation Specialist</fullName>
+        <default>false</default>
+        <label>Einstein Analytics Data Preparation Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>Field Service Lightning Consultant</fullName>
+        <default>false</default>
+        <label>Field Service Lightning Consultant</label>
+    </customValue>
+    <customValue>
+        <fullName>Heroku Architecture Designer</fullName>
+        <default>false</default>
+        <label>Heroku Architecture Designer</label>
+    </customValue>
+    <customValue>
+        <fullName>Identity and Access Management Designer</fullName>
+        <default>false</default>
+        <label>Identity and Access Management Designer</label>
+    </customValue>
+    <customValue>
+        <fullName>Integration Architecture Designer</fullName>
+        <default>false</default>
+        <label>Integration Architecture Designer</label>
+    </customValue>
+    <customValue>
+        <fullName>JavaScript Developer I</fullName>
+        <default>false</default>
+        <label>JavaScript Developer I</label>
+    </customValue>
+    <customValue>
+        <fullName>Lightning Experience Reports &amp; Dashboards Specialist</fullName>
+        <default>false</default>
+        <label>Lightning Experience Reports &amp; Dashboards Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>Lightning Experience Rollout Specialist</fullName>
+        <default>false</default>
+        <label>Lightning Experience Rollout Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>Lightning Web Components Specialist</fullName>
+        <default>false</default>
+        <label>Lightning Web Components Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>Marketing Cloud Administrator</fullName>
+        <default>false</default>
+        <label>Marketing Cloud Administrator</label>
+    </customValue>
+    <customValue>
+        <fullName>Marketing Cloud Consultant</fullName>
+        <default>false</default>
+        <label>Marketing Cloud Consultant</label>
+    </customValue>
+    <customValue>
+        <fullName>Marketing Cloud Developer</fullName>
+        <default>false</default>
+        <label>Marketing Cloud Developer</label>
+    </customValue>
+    <customValue>
+        <fullName>Marketing Cloud Email Specialist</fullName>
+        <default>false</default>
+        <label>Marketing Cloud Email Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>Marketing Cloud Social Specialist</fullName>
+        <default>false</default>
+        <label>Marketing Cloud Social Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>Nonprofit Cloud Consultant</fullName>
+        <default>false</default>
+        <label>Nonprofit Cloud Consultant</label>
+    </customValue>
+    <customValue>
+        <fullName>Pardot Consultant</fullName>
+        <default>false</default>
+        <label>Pardot Consultant</label>
+    </customValue>
+    <customValue>
+        <fullName>Pardot Specialist</fullName>
+        <default>false</default>
+        <label>Pardot Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>Platform App Builder</fullName>
+        <default>false</default>
+        <label>Platform App Builder</label>
+    </customValue>
+    <customValue>
+        <fullName>Platform Developer I</fullName>
+        <default>false</default>
+        <label>Platform Developer I</label>
+    </customValue>
+    <customValue>
+        <fullName>Platform Developer II</fullName>
+        <default>false</default>
+        <label>Platform Developer II</label>
+    </customValue>
+    <customValue>
+        <fullName>Process Automation Specialist</fullName>
+        <default>false</default>
+        <label>Process Automation Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>Reports &amp; Dashboards Specialist</fullName>
+        <default>false</default>
+        <label>Reports &amp; Dashboards Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>Sales Cloud Consultant</fullName>
+        <default>false</default>
+        <label>Sales Cloud Consultant</label>
+    </customValue>
+    <customValue>
+        <fullName>Security Specialist</fullName>
+        <default>false</default>
+        <label>Security Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>Service Cloud Consultant</fullName>
+        <default>false</default>
+        <label>Service Cloud Consultant</label>
+    </customValue>
+    <customValue>
+        <fullName>Sharing and Visibility Designer</fullName>
+        <default>false</default>
+        <label>Sharing and Visibility Designer</label>
+    </customValue>
+    <customValue>
+        <fullName>System Architect</fullName>
+        <default>false</default>
+        <label>System Architect</label>
+    </customValue>
+    <customValue>
+        <fullName>Technical Architect</fullName>
+        <default>false</default>
+        <label>Technical Architect</label>
+    </customValue>
+    <masterLabel>Certification Type</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
