@@ -1,29 +1,32 @@
  <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <types>
-        <members>Question__c</members>
-        <members>Correct_Answer__c</members>
-        <members>Result__c</members>
-        <members>Category__c</members>
-        <members>Exam_Question__c</members>
-        <members>student_Answer__c</members>
-        <members>Exam__c</members>
-        <name>CustomObject</name>
+<types>
+        <members>*</members>
+        <name>Network</name>
     </types>
     <types>
-        <members>Assignments__c</members>
-        <members>Category__c</members>
-        <members>CorrectAnswer__c</members>
-        <members>Exam_Question__c</members>
-        <members>Exam__c</members>
-        <members>Question__c</members>
-        <members>Result__c</members>
-        <members>Student_Answer__c</members>
-        <name>CustomTab</name>
-    </types> 
+        <members>*</members>
+        <name>CustomSite</name>
+    </types>
     <types>
         <members>*</members>
-        <name>SharingRules</members>
+        <name>ExperienceBundle</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexComponent</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Portal</name>
     </types>
     <version>50.0</version>
 </Package>
