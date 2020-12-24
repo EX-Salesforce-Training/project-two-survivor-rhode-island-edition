@@ -1,0 +1,16 @@
+<aura:component implements="forceCommunity:availableForAllPageTypes">
+<!--STUDY GUIDES-->
+<div class="slds-col slds-size_1-of-1 slds-medium-size_9-of-12 slds-large-size_4-of-12">
+    <h2 class="slds-text-heading_large">STUDY GUIDES</h2>
+                            <ul>
+                                <li><a href="https://trailhead.salesforce.com/en/users/strailhead/trailmixes/build-your-admin-career-on-salesforce">Salesforce Administrator</a>
+                                </li>
+                                <li><a href="https://trailhead.salesforce.com/en/users/strailhead/trailmixes/build-your-developer-career-on-salesforce">Salesforce Developer</a>
+                                </li>
+                                <li><a href="#"></a>
+                                </li>
+                                <li><a href="#"></a>
+                                </li>
+                             </ul>
+</div>
+</aura:component>
