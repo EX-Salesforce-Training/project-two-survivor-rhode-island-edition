@@ -1,7 +1,7 @@
 <aura:component implements="forceCommunity:availableForAllPageTypes">
 <lightning:listView aura:id="listViewAccounts"
     objectApiName="Exams__c"
-    listName="AllExams"
+    listName="All"
     rows="5"
     showSearchBar="true"
     showActionBar="false"

@@ -1,4 +1,4 @@
-<aura:component >
+<aura:component implements="forceCommunity:availableForAllPageTypes">
 <!--RESULTS-->
     <span class="slds-text-heading_large">RESULTS</span>
  <table class="slds-table slds-table_cell-buffer slds-table_bordered">
