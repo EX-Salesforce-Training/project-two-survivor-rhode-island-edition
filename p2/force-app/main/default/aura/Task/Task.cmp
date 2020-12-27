@@ -1,4 +1,4 @@
-<aura:component controller="TasKController" implements="force:appHostable,flexipage:availableForAllPageTypes,force:hasRecordId" >
+<aura:component controller="TaskController" implements="force:appHostable,flexipage:availableForAllPageTypes,force:hasRecordId,forceCommunity:availableForAllPageTypes" >
 
 <aura:attribute name="recordId" type="Id" />
 <aura:attribute name="newTask" type="Task" default="{'sobjectType':'Task'}"/>

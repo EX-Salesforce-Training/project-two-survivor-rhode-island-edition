@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Report xmlns="http://soap.sforce.com/2006/04/metadata">
+    <columns>
+        <field>Exams__c.Exam_Questions__r$Name</field>
+    </columns>
+    <columns>
+        <field>Exams__c.Exam_Questions__r.Student_Answers__r$Name</field>
+    </columns>
+    <columns>
+        <field>Exams__c.Exam_Questions__r.Student_Answers__r.Results__r$Name</field>
+    </columns>
+    <columns>
+        <aggregateTypes>Sum</aggregateTypes>
+        <field>Exams__c.Exam_Questions__r.Student_Answers__r.Results__r$Answer_Right__c</field>
+    </columns>
+    <format>Matrix</format>
+    <groupingsAcross>
+        <dateGranularity>Day</dateGranularity>
+        <field>Exams__c.Exam_Questions__r.Student_Answers__r$CreatedBy</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsAcross>
+    <groupingsDown>
+        <dateGranularity>Day</dateGranularity>
+        <field>Exams__c$Name</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsDown>
+    <name>Results by Exam</name>
+    <params>
+        <name>co</name>
+        <value>0</value>
+    </params>
+    <reportType>Exams_with_Exam_Questions_with_Student_Answers_with_Results__c</reportType>
+    <scope>user</scope>
+    <showDetails>false</showDetails>
+    <showGrandTotal>false</showGrandTotal>
+    <showSubTotals>true</showSubTotals>
+    <timeFrameFilter>
+        <dateColumn>Exams__c$CreatedDate</dateColumn>
+        <interval>INTERVAL_CURRENT</interval>
+    </timeFrameFilter>
+</Report>
