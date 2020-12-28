@@ -19,10 +19,6 @@
     setStopTimeOnUI : function(component) {
         component.set("v.ltngIsDisplayed",false);
         window.clearTimeout(this.waitingTimeId);
-    },
-    setResetTimeOnUI : function(component) {
-        component.set("v.ltngIsDisplayed",false);
-        component.set("v.ltngCurrTime","00:00:00");
-        window.clearTimeout(this.waitingTimeId);
     }
+   
 })
