@@ -63,7 +63,7 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
 
 # Usage
-With is project users can create view and track mail/packages in a post office like organization. Users can track status of and approve insurance claims. External users can track packages with a tracking number and edit their own contact info/addresses as well as see if list of all of their package history.
+This repository contains all the custom lightning Aura components needed to implement our student community portal in Salesforce. It's intended for use as a student facing application to for students to be able to interact with various activities they would need to as they go through SF training.
 
 # Contributors
 Matt Levine<br/>
