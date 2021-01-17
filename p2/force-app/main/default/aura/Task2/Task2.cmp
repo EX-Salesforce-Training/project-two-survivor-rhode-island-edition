@@ -1,5 +1,6 @@
 <aura:component implements="forceCommunity:availableForAllPageTypes">
 	<lightning:listView objectApiName="Task"
-                       listName="OpenTasks" />
+                       listName="OpenTasks" 
+                       showActionBar = "True"/>
                        
 </aura:component>

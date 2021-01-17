@@ -1,0 +1,16 @@
+<aura:component >
+    <aura:handler event="c:SubmitAnswerEvent" action="{!c.handleEvent}" />
+    <aura:registerEvent name="StudentAnswer" type="c:StudentAnswerEvent" />
+    <aura:attribute name="studId" type="string" />
+    <aura:attribute name="StudRec" type="Student_Answer__c" default="{'sobjectType' : 'Student_Answer__c'}"/>
+    <aura:attribute name="options" type="list" default="[
+                                                        {label: 'A)', value: 'A)'},
+                                                        {label: 'B)', value: 'B)'},
+                                                        {label: 'C)', value: 'C)'},
+                                                        {label: 'D)', value: 'D)'}]" />
+	<lightning:dualListbox name="ans"
+                                                   label="Answer"
+                                                   selectedLabel="Answer Selected"
+                                                   options="{!v.options}"
+                                                   onchange="{!c.handleChange}" />
+</aura:component>

@@ -1,0 +1,3 @@
+<aura:event type="COMPONENT" description="Event Pass Student Answers to parent">
+    <aura:attribute name="ansList" type="Student_Answer__c" />
+</aura:event>

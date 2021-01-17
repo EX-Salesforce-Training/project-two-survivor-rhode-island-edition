@@ -1,0 +1,12 @@
+<aura:component controller="ExamQController">
+    <aura:attribute name="question" type="Exam_Question__c" />
+    <aura:attribute name="answer" type="Student_Answer__c" />
+    <aura:attribute name="examTitle" type = "string" default="Exam 1"/>
+    <lightning:card>
+        <lightning:recordEditForm objectApiName="Student_Answer__c" onload ="{!c.getInfo}">
+            <lightning:outputField fieldName="{!v.Exam_Question__c}" />
+            <lightning:inputField fieldName="{!v.Student_Answer__c.Answer__c}" />
+            <lightning:button label="Submit Answer" onclick="{!c.submitAns}"/>
+        </lightning:recordEditForm>
+    </lightning:card>
+</aura:component>

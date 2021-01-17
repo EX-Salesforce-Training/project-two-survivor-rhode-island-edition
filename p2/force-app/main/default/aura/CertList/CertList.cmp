@@ -1,0 +1,6 @@
+<aura:component implements="forceCommunity:availableForAllPageTypes">
+	<lightning:listView objectApiName="Contact_Certification__c"
+                        listName="All"
+                        rows="5"
+                        showSearchBar="true" />
+</aura:component>
